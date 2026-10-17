@@ -1,16 +1,16 @@
 [
   {
     "id": "1",
-    "stream_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-    "song_title": "Liya ibrahim",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/hanya-daiya.mp3",
+    "song_title": "Danya Daya",
     "album": "Sani Liya Liya Hits",
     "duration": "3:45",
     "is_downloadable": "yes"
   },
   {
     "id": "2",
-    "stream_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-    "song_title": "Jarumar Mata",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Kauna_Ta_Hadamu.mp3",
+    "song_title": "kauna Ta Hadu",
     "album": "Gidan Biki",
     "duration": "4:12",
     "is_downloadable": "yes"
