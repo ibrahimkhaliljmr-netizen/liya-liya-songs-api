@@ -1,66 +1,146 @@
 [
   {
     "id": "1",
-    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/hanya-daiya.mp3",
-    "song_title": "Danya Daya",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/ALJAN_MATAR_SOJA_ft_Angon_Sambisa.mp3",
+    "song_title": "Aljan Matar Soja (ft. Angon Sambisa)",
     "album": "Sani Liya Liya Hits",
     "duration": "3:45",
     "is_downloadable": "yes"
   },
   {
     "id": "2",
-    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Kauna_Ta_Hadamu.mp3",
-    "song_title": "kauna Ta Hadu",
-    "album": "Gidan Biki",
-    "duration": "4:12",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Aboki_mugu_ft_ismail_Tsito_zainab_Sambisa_and_Yamu_Baba.mp3",
+    "song_title": "Aboki Mugu (ft. Ismail Tsito, Zainab Sambisa & Yamu Baba)",
+    "album": "Sani Liya Liya Hits",
+    "duration": "4:02",
     "is_downloadable": "yes"
   },
   {
     "id": "3",
-    "stream_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
-    "song_title": "Kalaman So",
-    "album": "Soyayya Vol. 1",
-    "duration": "3:58",
-    "is_downloadable": "no"
-  },
-  {
-    "id": "4",
-    "stream_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
-    "song_title": "Zaboina",
-    "album": "Sani Liya Liya Hits",
-    "duration": "4:20",
-    "is_downloadable": "yes"
-  },
-  {
-    "id": "5",
-    "stream_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
-    "song_title": "Rana Taka",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Arewa_ft_Maryam_Shalele.mp3",
+    "song_title": "Arewa (ft. Maryam Shalele)",
     "album": "Hausa Special",
     "duration": "3:30",
     "is_downloadable": "yes"
   },
   {
-    "id": "6",
-    "stream_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
-    "song_title": "Gidan Biki",
+    "id": "4",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Baba_Ya_Tafi_ft_Yamu_Angon_Sambisa.mp3",
+    "song_title": "Baba Ya Tafi (ft. Yamu Angon Sambisa)",
+    "album": "Soyayya Vol. 1",
+    "duration": "4:15",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "5",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Cele_ft_Zainab_Sambisa_and_Yamu_Baba.mp3",
+    "song_title": "Cele (ft. Zainab Sambisa & Yamu Baba)",
     "album": "Gidan Biki",
-    "duration": "4:05",
-    "is_downloadable": "no"
+    "duration": "3:50",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "6",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Ila_ango_ango_ft._Maryam_MJ_and_Angon_Sambisa.mp3",
+    "song_title": "Ila Ango Ango (ft. Maryam MJ & Angon Sambisa)",
+    "album": "Gidan Biki",
+    "duration": "4:10",
+    "is_downloadable": "yes"
   },
   {
     "id": "7",
-    "stream_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
-    "song_title": "So Dangin Mutuwa",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Kauna_Ta_Hadamu.mp3",
+    "song_title": "Kauna Ta Hadumu",
     "album": "Soyayya Vol. 1",
-    "duration": "3:52",
+    "duration": "4:12",
     "is_downloadable": "yes"
   },
   {
     "id": "8",
-    "stream_url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
-    "song_title": "Hausa Special Remix",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Korona_ft_Angon_Sambisa_and_Zainab_Sambisa.mp3",
+    "song_title": "Korona (ft. Angon Sambisa & Zainab Sambisa)",
     "album": "Hausa Special",
-    "duration": "5:10",
+    "duration": "3:25",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "9",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/MAMAN_KALTUME_wakar_Hausa.mp3",
+    "song_title": "Maman Kaltume",
+    "album": "Sani Liya Liya Hits",
+    "duration": "3:55",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "10",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Mahaukaciya_ft_Zainab_Sambisa_and_Yamu_Baba.mp3",
+    "song_title": "Mahaukaciya (ft. Zainab Sambisa & Yamu Baba)",
+    "album": "Sani Liya Liya Hits",
+    "duration": "4:00",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "11",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Malama_ft_Yamu_Angon_Sambisa_and_Hafsat_Bauchi.mp3",
+    "song_title": "Malama (ft. Yamu Angon Sambisa & Hafsat Bauchi)",
+    "album": "Soyayya Vol. 1",
+    "duration": "3:40",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "12",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Marka_Mai_Tuwo_wakar_Sani_ft_Zainab_Sambisa_and_Yamu_Angon_Sambisa.mp3",
+    "song_title": "Marka Mai Tuwo (ft. Zainab Sambisa & Yamu Angon Sambisa)",
+    "album": "Gidan Biki",
+    "duration": "4:20",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "13",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Matan_Yamu_ft_Zainab_Sambisa_Maryam_Shalele_Jamila_Zanza_and__Zeenat.mp3",
+    "song_title": "Matan Yamu (ft. Zainab Sambisa, Maryam Shalele, Jamila Zanza & Zeenat)",
+    "album": "Gidan Biki",
+    "duration": "4:35",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "14",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Munafikin_Mata_ft_Angon_Sambisa.mp3",
+    "song_title": "Munafikin Mata (ft. Angon Sambisa)",
+    "album": "Hausa Special",
+    "duration": "3:50",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "15",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Uwar_gulma_ft_Zainab_Sambisa_and_Yamu_Baba.mp3",
+    "song_title": "Uwar Gulma (ft. Zainab Sambisa & Yamu Baba)",
+    "album": "Sani Liya Liya Hits",
+    "duration": "3:45",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "16",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/adaidaita_sahu_ft._Isma_il_Tsito.mp3",
+    "song_title": "Adaidaita Sahu (ft. Ismail Tsito)",
+    "album": "Hausa Special",
+    "duration": "3:35",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "17",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/amarsu_Maryam_MJ_and_Angon_Sambisa.mp3",
+    "song_title": "Amarsu (ft. Maryam MJ & Angon Sambisa)",
+    "album": "Gidan Biki",
+    "duration": "4:05",
+    "is_downloadable": "yes"
+  },
+  {
+    "id": "18",
+    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/hanya-daiya.mp3",
+    "song_title": "Hanya Daiya",
+    "album": "Sani Liya Liya Hits",
+    "duration": "3:45",
     "is_downloadable": "yes"
   }
 ]
