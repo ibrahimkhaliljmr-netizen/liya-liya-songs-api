@@ -48,14 +48,6 @@
     "is_downloadable": "yes"
   },
   {
-    "id": "7",
-    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Kauna_Ta_Hadamu.mp3",
-    "song_title": "Kauna Ta Hadumu",
-    "album": "Soyayya Vol. 1",
-    "duration": "4:12",
-    "is_downloadable": "yes"
-  },
-  {
     "id": "8",
     "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/Korona_ft_Angon_Sambisa_and_Zainab_Sambisa.mp3",
     "song_title": "Korona (ft. Angon Sambisa & Zainab Sambisa)",
@@ -133,14 +125,6 @@
     "song_title": "Amarsu (ft. Maryam MJ & Angon Sambisa)",
     "album": "Gidan Biki",
     "duration": "4:05",
-    "is_downloadable": "yes"
-  },
-  {
-    "id": "18",
-    "stream_url": "https://cdn.jsdelivr.net/gh/ibrahimkhaliljmr-netizen/liya-liya-songs-api@main/hanya-daiya.mp3",
-    "song_title": "Hanya Daiya",
-    "album": "Sani Liya Liya Hits",
-    "duration": "3:45",
     "is_downloadable": "yes"
   }
 ]
