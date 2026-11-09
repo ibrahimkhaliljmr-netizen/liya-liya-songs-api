@@ -7,5 +7,6 @@
   "interstitial_ad_unit_id": "ca-app-pub-3712769344488940/8877371098",
   "banner_ad_unit_id": "ca-app-pub-3712769344488940/4483452638",
   "interstitial_song_trigger_count": 4,
-  "interstitial_nav_trigger_count": 4
+  "interstitial_nav_trigger_count": 4,
+  "banner_song_interval": 6
 }
